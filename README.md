@@ -6,7 +6,10 @@ Build a chatbot powered by LlamaIndex that augments Llama3 with the contents of 
 
 1. If you don’t have Python installed, install it [from Python.org](https://www.python.org/downloads/).
 
-2. If you don't have ollama installed, install it [from ollama.com](https://ollama.com/). Then run '''cmdollama run llama3''' in command prompt.
+2. If you don't have ollama installed, install it [from ollama.com](https://ollama.com/). Then run this command in command prompt to install llama3: 
+   ```cmd
+   ollama run llama3
+   ```
 
 3. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository.
 
