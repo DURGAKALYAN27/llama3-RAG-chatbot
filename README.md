@@ -34,14 +34,15 @@ Build a chatbot powered by LlamaIndex that augments Llama3 with the contents of 
 6. Install the requirements:
 
    ```cmd
+   cd llamaragbot
+   ```
+   ```cmd
    pip install -r requirements.txt
    ```
 
 7. Run the app:
 
-   ```cmd
-   cd llamaragbot
-   ```
+   
    ```cmd
    ollama serve
    ```
